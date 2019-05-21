@@ -1,0 +1,16 @@
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 67 : Found directive in column 1. (extern)
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 68 : Found directive in column 1. (extern)
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 69 : Found directive in column 1. (extern)
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 70 : Found directive in column 1. (extern)
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 71 : Found directive in column 1. (extern)
+Warning[205] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 72 : Found directive in column 1. (extern)
+Message[302] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 113 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 115 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 117 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 160 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 161 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 210 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 238 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 252 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 266 : Using default destination of 1 (file).
+Message[305] /home/andrew/MPLABXProjects/Lab8B.X/Lab8B.asm 284 : Using default destination of 1 (file).
